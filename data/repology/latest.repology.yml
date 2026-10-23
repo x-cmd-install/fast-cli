@@ -1,0 +1,44 @@
+- repo: nix_stable_24_05
+  srcname: fast-cli
+  visiblename: fast-cli
+  version: 3.2.0
+  origversion: null
+  status: outdated
+  summary: Test your download and upload speed using fast.com
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: fast-cli
+  visiblename: fast-cli
+  version: 4.0.0
+  origversion: null
+  status: unique
+  summary: Test your download and upload speed using fast.com
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: fast-cli
+  visiblename: fast-cli
+  version: 4.0.0
+  origversion: null
+  status: unique
+  summary: Test your download and upload speed using fast.com
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: fast-cli
+  visiblename: fast-cli
+  version: 4.0.0
+  origversion: null
+  status: unique
+  summary: Test your download and upload speed using fast.com
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
